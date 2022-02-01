@@ -17,9 +17,9 @@ We pointed some feedback:
 - [ ] Well the welcome page UI is not that pleasing the eyes you guys need to made it more interesting by adding more color or some picture just be creative i think, so when people visit the page for the first tme they would feel wow
 - [x] Answer: We will Release with Alpha v0.1.3 - Alpha v0.1.5
 
-- [ ] 
-- Site is interactive but it would really need improve later when mainnet launch (it's seems lag on several situation)
-- Mint and NFT Listing on Zoo Harmony is very easy. We do not need to bother to do both things. It's just that on my 2nd try to do an NFT listing that I had previously purchased, I experienced a long transaction delay and this is quite annoying.
+
+- [ ] Site is interactive but it would really need improve later when mainnet launch (it's seems lag on several situation)
+- [ ] Mint and NFT Listing on Zoo Harmony is very easy. We do not need to bother to do both things. It's just that on my 2nd try to do an NFT listing that I had previously purchased, I experienced a long transaction delay and this is quite annoying.
 - [x] Answer: Fixed with changeing the block from PastEvents Contracts on Index.js
 ```
     Before:
@@ -36,11 +36,10 @@ We pointed some feedback:
 - [ ] Minting is going well. But on listing i have a problem thats not notification or something. If i succeed to listing my NFT
 - [x] Answer: Released Alpha v0.1.2 | Adding more features and adding more toast
 
-- [ ] 
-- The canvas size i think it better that we input the size number manualy rather than use scaled 
-- Added more tools like pencils other than brush
-- Add coloring tools like bucket paint cuz its really hard coloring using brush when on mouse
-- Add background tool 
+- [ ]  The canvas size i think it better that we input the size number manualy rather than use scaled 
+- [ ]  Added more tools like pencils other than brush
+- [ ]  Add coloring tools like bucket paint cuz its really hard coloring using brush when on mouse
+- [ ]  Add background tool 
 - [x] Answer: We will Release with Alpha v0.1.3 - Alpha v0.1.5 and rebuild Drawing to the stable version
 
 
