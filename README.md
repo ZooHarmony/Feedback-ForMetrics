@@ -2,7 +2,7 @@
 
 We pointed some feedback:
 
-- [] Very interesting and challenging because the process is very long and I feel like I have a new experience testing this web
+- [ ] Very interesting and challenging because the process is very long and I feel like I have a new experience testing this web
 - [x] Answer: We need to do this to users who test our dapp: so they can learn something new and feel the different experience.
 
 - [] The drawing features in ZooHarmony are very easy to use and no problem at all
