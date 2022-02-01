@@ -45,15 +45,16 @@ We pointed some feedback:
 
 - [ ] Cannot Mint NFT
 - [x] Answer: Users should fill all the form
-- [x] Select the Categories 
-- [x] Name of NFT
-- [x] Url Promotions
-- [x] Description of NFT
-- [x] Have minimum 0.02 ONE for fees
+- [x] Answer: Select the Categories 
+- [x] Answer: Naming of NFT
+- [x] Answer: Url Promotions
+- [x] Answer: Description of NFT
+- [x] Answer: Have minimum 0.02 ONE for fees
 <img src="https://raw.githubusercontent.com/ZooHarmony/Feedback-ForMetrics/main/fixed1.png">
 
 
 - [ ] Cannot Swaps ONE to ZOO
 <img src="https://raw.githubusercontent.com/ZooHarmony/Feedback-ForMetrics/main/3.jpg">
+
 - [x] Answer: Users should consider to use slip page more than 10% beacuse the LPs ONE-ZOO only just 10K
 <img src="https://raw.githubusercontent.com/ZooHarmony/Feedback-ForMetrics/main/4.png">
